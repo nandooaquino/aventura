@@ -14,3 +14,21 @@ margin: 0;
     color: rgb(63, 9, 9);
     font-family: "Bai Jamjuree", sans-serif;
  }
+
+ .passo{
+display:none;
+ }
+
+ .passo.ativo{
+   display:block;
+ }
+
+ main{
+max-width: 90%;
+text-align: center;
+
+ }
+
+ img{
+  max-width: 90%;
+ }
